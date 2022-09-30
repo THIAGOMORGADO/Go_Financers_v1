@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "GoFinancers",
+    "slug": "GoFinancers",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
